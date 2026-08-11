@@ -1,0 +1,4 @@
+venv/
+known_faces/
+*.csv
+__pycache__/
